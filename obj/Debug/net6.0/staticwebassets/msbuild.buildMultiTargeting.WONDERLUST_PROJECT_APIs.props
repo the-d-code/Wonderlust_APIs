@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WONDERLUST_PROJECT_APIs.props" />
+</Project>
