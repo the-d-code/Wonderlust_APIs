@@ -46,3 +46,25 @@ In this component register user can see list of transportation and can search th
  	
     Home: 
 In this component registered user can search the packages according to their criteria. Through the packages, the user can see the whole details of the place and according to their thought, they will provide the feedback (rating). Here there will be the latest and popular places and staying places and transportations list through which the register user
+
+
+# Hardware Requirement 	
+
+Processor of 800 MHz Pentium (R), 
+Minimum 512 MB RAM and Above, 
+Minimum 40 GB Hard Disk and Above,
+Mouse, 
+Keyboard.
+
+# Software Specification 	
+
+Front End Software:  Visual Studio 2022, VS Code 2022
+Back End:            SQL SERVER 19
+Operating System:    Windows 10 OR above
+
+
+# Development Description
+
+
+
+![Alt text](image-3.png)
