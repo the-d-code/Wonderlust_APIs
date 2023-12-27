@@ -31,14 +31,18 @@
 # 2. Core Components
 
 Core Components 
-
- 	Setup: 
+ 	
+    Setup: 
 Setup component is only used by admin. In that component admin can manage packages, hotels, transportations, categories of packages, room types of hotels, blogs and can see the user related information like their confirm bookings, inquiries, feedbacks etc.
- 	Packages: 
+ 	
+    Packages: 
 In this component register user can see list of packages and can search the dream destinations as per the provided criteria and can get the necessary details of that places, can give the feedbacks, can have booking of that and at that end they can pay the payments.
- 	Hotels: 
+ 	
+    Hotels: 
 In this component register user can see list of hotels and can search the place for the stay as per the provided criteria and can get the necessary details of that places, can give the feedbacks, can have booking of that and at that end they can pay the payments.
- 	Transportations: 
+ 	
+    Transportations: 
 In this component register user can see list of transportation and can search the dream destinations as per the provided criteria and can get the necessary details of that places, can give the feedbacks, can have booking of that and at that end they can pay the payments.
- 	Home: 
+ 	
+    Home: 
 In this component registered user can search the packages according to their criteria. Through the packages, the user can see the whole details of the place and according to their thought, they will provide the feedback (rating). Here there will be the latest and popular places and staying places and transportations list through which the register user
