@@ -2,6 +2,8 @@
 
 ![Alt text](image.png)
 
+![Alt text](image-4.png)
+
 ![Alt text](image-1.png)  | ![Alt text](image-2.png)
 
 
@@ -50,21 +52,49 @@ In this component registered user can search the packages according to their cri
 
 # Hardware Requirement 	
 
-Processor of 800 MHz Pentium (R), 
-Minimum 512 MB RAM and Above, 
-Minimum 40 GB Hard Disk and Above,
-Mouse, 
-Keyboard.
+Processor of 800 MHz Pentium (R),<br>
+Minimum 512 MB RAM and Above, <br>
+Minimum 40 GB Hard Disk and Above,<br>
+Mouse, <br>
+Keyboard.<br>
 
 # Software Specification 	
 
-Front End Software:  Visual Studio 2022, VS Code 2022
-Back End:            SQL SERVER 19
-Operating System:    Windows 10 OR above
+Front End Software:  Visual Studio 2022, VS Code 2022 <br>
+Back End:            SQL SERVER 19<br>
+Operating System:    Windows 10 OR above<br>
 
 
 # Development Description
 
-
+ 	I have gathered information about Traveler through the internet, and I found this topic interesting. I assure you that this system will give you more flexibility, reliability as well as financial support.
+ 	In this project, I have used the following technology
 
 ![Alt text](image-3.png)
+
+
+# Project Scope
+
+![Alt text](image-5.png)
+
+  
+# UML 
+![Alt text](image-6.png)
+![Alt text](image-7.png)
+
+# Activity Diagram
+  ![Alt text](image-8.png)
+  ![Alt text](image-9.png)
+  
+# Class Diagram
+ ![Alt text](image-10.png)
+
+# Sequence Diagram
+![Alt text](image-11.png)
+
+# Interface Design
+![Alt text](image-12.png)
+
+# Admin Interface
+
+![Alt text](image-13.png)
