@@ -93,7 +93,8 @@ Operating System:    Windows 10 OR above<br>
 ![Alt text](image-11.png)
 
 # Interface Design
-![Alt text](image-12.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
 
 # Admin Interface
 
